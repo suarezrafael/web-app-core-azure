@@ -1,0 +1,7 @@
+C:\Desenv\Projetos Pessoais\webappcoreazure\webappcoreazure\obj\Release\net6.0\PubTmp\Out\webappcoreazure.exe
+C:\Desenv\Projetos Pessoais\webappcoreazure\webappcoreazure\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Desenv\Projetos Pessoais\webappcoreazure\webappcoreazure\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Desenv\Projetos Pessoais\webappcoreazure\webappcoreazure\obj\Release\net6.0\PubTmp\Out\webappcoreazure.dll
+C:\Desenv\Projetos Pessoais\webappcoreazure\webappcoreazure\obj\Release\net6.0\PubTmp\Out\webappcoreazure.deps.json
+C:\Desenv\Projetos Pessoais\webappcoreazure\webappcoreazure\obj\Release\net6.0\PubTmp\Out\webappcoreazure.runtimeconfig.json
+C:\Desenv\Projetos Pessoais\webappcoreazure\webappcoreazure\obj\Release\net6.0\PubTmp\Out\webappcoreazure.pdb
